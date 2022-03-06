@@ -1,0 +1,212 @@
+/*@font-face {
+    font-family: 'myFont';
+    src: url(Fonts/BhuTukaExpandedOne-Regular.otf);
+}*/
+
+h1 {
+    font-family: 'Sansita Swashed', cursive;
+    color: rgb(212, 103, 103)
+}
+
+/*.apple-left {
+    height: 500px;
+    width: 300px;
+    background-color: rgb(156, 23, 23);
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    border-radius: 517px 294px 326px 500px;
+    transform: skewY(15deg);
+}
+
+.apple-right {
+    height: 500px;
+    width: 300px;
+    background: rgb(156, 23,23);
+    position: absolute;
+    top: 95px;
+    left: 283px;
+    border-radius: 250px 386px 374px 159px;
+    transform: skewY(-15deg);
+}
+
+#highlight {
+    height: 200px;
+    width: 200px;
+    background: rgb(230, 140, 140);
+    position: absolute;
+    z-index: +10;
+    top: 150px;
+    left: 141px;
+    border-radius: 334px 327px 199px 295px;
+    opacity: 50%;
+    mix-blend-mode: multyply;
+}*/
+
+.petal-back-1 {
+    height: 100px;
+    width: 200px;
+    background: rgb(228, 150, 150);
+    position: absolute;
+    top: 100px;
+    left: 300px;
+    border-radius: 400px 70px 400px 100px;
+    transform: rotate(50deg);
+}
+
+.petal-back-2 {
+    height: 100px;
+    width: 200px;
+    background: rgb(228, 150, 150);
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    border-radius: 400px 70px 400px 100px;
+    transform: rotate(120deg);
+}
+
+.petal-back-3 {
+    height: 100px;
+    width: 200px;
+    background: rgb(228, 150, 150);
+    position: absolute;
+    top: 180px;
+    left: 450px;
+    border-radius: 400px 70px 400px 100px;
+    transform: rotate(190deg);
+}
+
+.petal-back-4 {
+    height: 100px;
+    width: 200px;
+    background: rgb(228, 150, 150);
+    position: absolute;
+    top: 250px;
+    left: 355px;
+    border-radius: 400px 70px 400px 100px;
+    transform: rotate(260deg);
+}
+
+.petal-back-5 {
+    height: 100px;
+    width: 200px;
+    background: rgb(228, 150, 150);
+    position: absolute;
+    top: 190px;
+    left: 260px;
+    border-radius: 400px 70px 400px 100px;
+    transform: rotate(350deg);
+}
+
+.petal-front-1 {
+    height: 80px;
+    width: 150px;
+    background: rgb(247, 177, 177);
+    position: absolute;
+    top: 105px;
+    left: 370px;
+    border-radius: 400px 70px 400px 100px;
+    transform: rotate(90deg);
+}
+
+.petal-front-2 {
+    height: 80px;
+    width: 150px;
+    background: rgb(247, 177, 177);
+    position: absolute;
+    top: 160px;
+    left: 450px;
+    border-radius: 400px 70px 400px 100px;
+    transform: rotate(160deg);
+}
+
+.petal-front-3 {
+    height: 80px;
+    width: 150px;
+    background: rgb(247, 177, 177);
+    position: absolute;
+    top: 250px;
+    left: 430px;
+    border-radius: 400px 70px 400px 100px;
+    transform: rotate(230deg);
+}
+
+.petal-front-4 {
+    height: 80px;
+    width: 150px;
+    background: rgb(247, 177, 177);
+    position: absolute;
+    top: 250px;
+    left: 320px;
+    border-radius: 400px 70px 400px 100px;
+    transform: rotate(300deg);
+}
+
+.petal-front-5 {
+    height: 80px;
+    width: 150px;
+    background: rgb(247, 177, 177);
+    position: absolute;
+    top: 155px;
+    left: 290px;
+    border-radius: 400px 70px 400px 100px;
+    transform: rotate(370deg);
+}
+
+.petal-centre-1 {
+    height: 120px;
+    width: 40px;
+    background: rgb(250, 215, 139);
+    position: absolute;
+    top: 155px;
+    left: 430px;
+    border-radius: 400px 70px 400px 100px;
+    opacity: 70%;
+    transform: rotate(20deg);
+}
+
+.petal-centre-2 {
+    height: 120px;
+    width: 40px;
+    background: rgb(250, 215, 139);
+    position: absolute;
+    top: 155px;
+    left: 430px;
+    border-radius: 400px 70px 400px 100px;
+    opacity: 70%;
+    transform: rotate(80deg);
+}
+
+.petal-centre-3 {
+    height: 120px;
+    width: 40px;
+    background: rgb(250, 215, 139);
+    position: absolute;
+    top: 155px;
+    left: 430px;
+    border-radius: 400px 70px 400px 100px;
+    opacity: 70%;
+    transform: rotate(130deg);
+}
+
+.stem {
+    height: 140px;
+    width: 23px;
+    background: rgb(36, 124, 70);
+    position: absolute;
+    top: 340px;
+    left: 390px;
+    transform: rotate(15deg);
+    z-index: -1;
+}
+
+.stem2 {
+    height: 200px;
+    width: 28px;
+    background: rgb(36, 124, 70);
+    position: absolute;
+    top: 475px;
+    left: 375px;
+    transform: rotate(-2deg);
+}
+
